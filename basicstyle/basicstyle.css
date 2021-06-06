@@ -158,3 +158,11 @@ div.nav a {
     padding-left: 10px;
     color: #000;
 }
+
+.card {
+    border: 1px solid #cccccc;
+    padding: 10px;
+    padding-bottom: 0px;
+    border-radius: 2px;
+    width: max-content;
+}
