@@ -143,3 +143,18 @@ hr {
 .inline {
     display: inline;
 }
+
+hr {
+    border-color: #cccccc;
+}
+
+div.nav {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid #cccccc;
+}
+
+div.nav a {
+    padding-left: 10px;
+    color: #000;
+}
